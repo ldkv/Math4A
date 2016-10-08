@@ -1,37 +1,34 @@
 PROJET MATHEMATIQUES : EXTRUSION
 10 juin 2016
-Groupe du projet - 4A 3DJV ESGI 2016
-- Dao Khanh Vu LE
-- Pierre BLOQUET
 
-==================================================================================================================================================================
-- Ctrl + F pour créer une nouvelle courbe de forme (scène OpenGL en haut à gauche)
-- Ctrl + A pour créer une nouvelle courbe d'âme (scène OpenGL en bas à gauche)
+========================================================================================================================================
+- Ctrl + F pour crÃ©er une nouvelle courbe de forme (scÃ¨ne OpenGL en haut Ã  gauche)
+- Ctrl + A pour crÃ©er une nouvelle courbe d'Ã¢me (scÃ¨ne OpenGL en bas Ã  gauche)
 - Clique gauche pour commencer la saisie les points
 - Clique droite pour finir la saisie
-- Les points peuvent être déplacer après la saisie
-- La scène 3D à droite sera mise à jour selon les options choisies
-- Le paramètres d'agrandissement est juste pour l'extrusion simple
+- Les points peuvent Ãªtre dÃ©placer aprÃ¨s la saisie
+- La scÃ¨ne 3D Ã  droite sera mise Ã  jour selon les options choisies
+- Le paramÃ¨tres d'agrandissement est juste pour l'extrusion simple
 
 METHODE POUR VERIFIER LES SURFACES PAR CAMERA
 *** Extrusion simple ***
-- Créer tout d'abord la forme - finir la saisie
-- Cliquer une fois sur la scène 3D à droite
-- Taper bouton A une fois: la caméra va changer pour afficher toute l'extrusion
+- CrÃ©er tout d'abord la forme - finir la saisie
+- Cliquer une fois sur la scÃ¨ne 3D Ã  droite
+- Taper bouton A une fois: la camÃ©ra va changer pour afficher toute l'extrusion
 - Appuyer sur bouton E/Z pour zoom in/out
-- Déplacer les points de la forme à gauche pour vérifier la surface
+- DÃ©placer les points de la forme Ã  gauche pour vÃ©rifier la surface
 
-*** Extrusion révolutionaire ***
-- Choisir l'option Révolution
-- Cliquer une fois sur la scène 3D à droite
-- Taper bouton E une fois: la caméra va changer pour afficher toute l'extrusion
+*** Extrusion rÃ©volutionaire ***
+- Choisir l'option RÃ©volution
+- Cliquer une fois sur la scÃ¨ne 3D Ã  droite
+- Taper bouton E une fois: la camÃ©ra va changer pour afficher toute l'extrusion
 - Appuyer sur bouton E/Z pour zoom in/out
-- Déplacer les points de la forme à gauche pour vérifier la surface
+- DÃ©placer les points de la forme Ã  gauche pour vÃ©rifier la surface
 
-*** Extrusion généralisée ***
-- Choisir l'option Générale
-- Créer la courbe de l'âme - finir la saisie
-- Cliquer une fois sur la scène 3D à droite
-- Taper bouton A une fois: la caméra va changer pour afficher toute l'extrusion
+*** Extrusion gÃ©nÃ©ralisÃ©e ***
+- Choisir l'option GÃ©nÃ©rale
+- CrÃ©er la courbe de l'Ã¢me - finir la saisie
+- Cliquer une fois sur la scÃ¨ne 3D Ã  droite
+- Taper bouton A une fois: la camÃ©ra va changer pour afficher toute l'extrusion
 - Appuyer sur bouton E/Z pour zoom in/out
-- Déplacer les points de la forme et de l'âme à gauche pour vérifier la surface
+- DÃ©placer les points de la forme et de l'Ã¢me Ã  gauche pour vÃ©rifier la surface
