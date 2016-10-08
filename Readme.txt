@@ -1,7 +1,7 @@
 PROJET MATHEMATIQUES : EXTRUSION
 10 juin 2016
 
-========================================================================================================================================
+====================================================================================
 - Ctrl + F pour créer une nouvelle courbe de forme (scène OpenGL en haut à gauche)
 - Ctrl + A pour créer une nouvelle courbe d'âme (scène OpenGL en bas à gauche)
 - Clique gauche pour commencer la saisie les points
